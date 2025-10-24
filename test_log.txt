@@ -1,0 +1,6 @@
+Starting build process...
+Running tests...
+ERROR: Test failed at line 42
+  AssertionError: Expected 200, got 404
+  File: test_api.py
+Build failed with exit code 1
